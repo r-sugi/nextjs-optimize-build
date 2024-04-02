@@ -1,6 +1,36 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## how to create template
+npx create-next-app@latest --eslint --ts --tailwind --use-npm bbb-normalize
+✔ Would you like to use `src/` directory? … No / Yes
+✔ Would you like to use App Router? (recommended) … No / Yes
+✔ Would you like to customize the default import alias (@/*)? … No / Yes
+✔ What import alias would you like configured? … @/*
+Creating a new Next.js app in /Users/ryo/work/gomi/bbb-normalize.
+
+Using npm.
+
+Initializing project with template: default-tw
+
+
+Installing dependencies:
+- react
+- react-dom
+- next
+
+Installing devDependencies:
+- typescript
+- @types/node
+- @types/react
+- @types/react-dom
+- autoprefixer
+- postcss
+- tailwindcss
+- eslint
+- eslint-config-next
+
+added 367 packages, and audited 368 packages in 14s
 
 ## Getting Started
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
